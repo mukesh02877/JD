@@ -1,0 +1,134 @@
+------------------Oracle---------
+
+Key Responsibilities:
+
+Define and design cloud-native data architecture on Databricks using Delta Lake, Unity Catalog, and related services.
+Develop migration strategies for moving on-premises data workloads (Oracle, Hadoop, Exadata, etc.) to Databricks on Azure/AWS.
+Architect and oversee data pipelines supporting ingestion, curation, transformation, and analytics in a multi-layered (bronze/silver/gold) model.
+Lead data modeling, schema design, performance optimization, and data governance best practices.
+Collaborate with data engineering, platform, and security teams to build production-ready solutions.
+Create standards for ingestion frameworks, job orchestration (e.g., workflows, Airflow), and data quality validation.
+Support cost optimization, scalability design, and operational monitoring frameworks.
+Guide and mentor engineering teams during the build and migration phases.
+Required Skills and Experience:
+
+8+ years of experience in data architecture or engineering roles, with at least 3+ years specializing in cloud-based big data solutions.
+Hands-on expertise with Databricks on Azure or AWS.
+Deep understanding of Delta Lake, medallion architecture (bronze/silver/gold zones), and data governance tools (e.g., Unity Catalog, Purview).
+Strong experience migrating large datasets and batch/streaming pipelines from on-prem to Databricks.
+Expertise with Spark (PySpark/Scala) at scale and optimizing Spark jobs.
+Familiarity with ingestion from RDBMS (Oracle, SQL Server) and legacy Hadoop ecosystems.
+Proficiency in orchestration tools (Databricks Workflows, Airflow, Azure Data Factory, AWS Glue Workflows).
+Strong understanding of cloud-native services for storage, compute, security, and networking.
+Preferred Qualifications:
+
+Databricks Certified Data Engineer or Architect.
+Azure/AWS cloud certifications.
+Experience with real-time/streaming ingestion (Kafka, Event Hubs, Kinesis).
+Familiarity with data quality frameworks (e.g., Deequ, Great Expectations).
+
+
+--------------Amgen--------------
+
+What you will do
+Let’s do this. Let’s change the world. In this vital role you will be responsible for
+managing the integrations to Amgen Veeva Vault Platform, develops and
+implements technology strategies, solutions, and services to support integrations
+to Amgen’s Veeva Vault Platform.
+The ideal candidate will have a consistent track record of leadership in
+technology-driven environments, managing technology platforms, digital
+transformation initiatives and has a passion for fostering innovation and
+excellence in the biotechnology industry. Additionally, collaboration with multifunctional
+and global teams is required to ensure seamless integration and
+operational excellence. This role demands the ability to drive and deliver against
+key organizational critical initiatives, foster a collaborative environment, and
+deliver high-quality results in a matrixed organizational structure.
+Roles & Responsibilities:
+Develop and maintain the Amgen’s enterprise Veeva Vault Platform architecture
+vision and strategy, ensuring alignment with business objectives
+Responsible for fostering platform reliability and efficiency through streamlined
+release management & execution, and establishing a consistent DevOps &
+CI/CD framework
+Accountable for designing and building customizations & configurations on the
+Platform as per the business needs including creating custom objects, fields,
+workflows and SDKs
+Responsible for strategizing Platform Integrations while adhering to consistent
+integration standards and patterns, designing integration workflows, building
+connectors, centralizing build & run, and performing a consistent DevOps model
+for integrations
+Identify and mitigate architectural risks, ensuring that the platform is scalable,
+secure, and resilient
+Maintain comprehensive documentation of the platform architecture, including
+principles, standards, user guides, and models
+Drive continuous improvement in the architecture by finding opportunities for
+innovation and efficiency
+Work with partners to gather and analyze requirements, ensuring that solutions
+meet both business and technical needs
+Perform impact assessments, clearly define AS-IS and TO-BE states, and
+recommend platform upgrades following the new features and functionalities
+released by Veeva
+Design platform architecture that can scale to meet growing business needs and
+performance demands
+Develop and maintain logical, physical, and conceptual data models to support
+business needs
+Establish and enforce data standards, governance policies, and best practices
+Provide domain expertise in Veeva Vault to the team, offering guidance on
+architecture, solution design, and implementation challenges.
+Provide hands-on technical leadership in resolving complex technical issues and
+ensuring smooth deployment and system integration
+What we expect of you
+We are all different, yet we all use our unique contributions to serve patients.
+Basic Qualifications:
+Doctorate degree and 2 years of Business, Engineering, IT or related field
+experience OR
+Master’s degree and 8 to 10 years of Business, Engineering, IT or related field
+experience OR
+Bachelor’s degree and 10 to 14 years of Business, Engineering, IT or related
+field experience OR
+Diploma and 14 to 18 years of Business, Engineering, IT or related field
+experience
+Preferred Qualifications:
+Functional Skills:
+Must-Have Skills:
+Strong understanding of architecting and deployment strategies for integrations
+to Veeva Vault Platforms/Products,
+Expertise in system integration, including APIs, middleware tools, and data
+migration between Vault and other systems.
+Strong knowledge of Data Lake technologies like Databricks, etc.
+Experience in Mulesoft and Python script development
+Extensive knowledge of enterprise architecture frameworks, technologies, and
+methodologies
+Experience with system integration and IT infrastructure
+Experience with data, change, and technology governance processes on the
+platform level
+Experience working in agile methodology, including Product Teams and Product
+Development models
+Proficiency in designing scalable, secure, and cost-effective solutions.
+Have partner and team management skills
+Can lead and guide multiple teams to meet business needs and goals
+Experience with cloud-based architectures, AWS, Azure, or similar environments.
+Good-to-Have Skills:
+Good Knowledge of the Global Pharmaceutical Industry
+Understanding of GxP process
+Strong solution design and problem-solving skills
+Strong understanding of technology, function, or platform
+Experience in developing differentiated and deliverable solutions
+Ability to analyze client requirements and translate them into solutions
+Working late hours
+Professional Certifications (please mention if the certification is preferred
+or mandatory for the role):
+Veeva Vault Platform Administrator (mandatory)
+Scaled Agile Framework (SAFe) for Teams (mandatory)
+Scaled Agile Framework (SAFe) – DevOps Practitioner (preferred)
+ITIL (preferred)
+Soft Skills:
+Excellent leadership and team management skills.
+Strong transformation and change management experience.
+Exceptional collaboration and communication skills.
+High degree of initiative and self-motivation.
+Ability to manage multiple priorities successfully.
+Team-oriented with a focus on achieving team goals.
+Strong presentation and public speaking skills.
+Excellent analytical and solving skills
+Strong verbal and written communication skills
+Ability to work effectively with global, virtual teams
